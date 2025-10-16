@@ -1,0 +1,17 @@
+# Go build files
+/bin/
+/build/
+/dist/
+*.exe
+*.out
+*.log
+
+# Environment & credentials
+.env
+config/google_credentials.json
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
